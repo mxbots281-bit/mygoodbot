@@ -34,7 +34,7 @@ from telethon.tl.functions.account import ReportPeerRequest
 from telethon import types
 
 # ─── Configuration ───────────────────────────────────────────────────────
-BOT_TOKEN = 8977749945:AAHLwwmKowJ4bukF-SM4rSXH2YVj3d6-0R0
+BOT_TOKEN = "8977749945:AAHLwwmKowJ4bukF-SM4rSXH2YVj3d6-0R0"
 OWNER_ID = 6019063884
 DB_FILE = "panel_bot.db"
 
